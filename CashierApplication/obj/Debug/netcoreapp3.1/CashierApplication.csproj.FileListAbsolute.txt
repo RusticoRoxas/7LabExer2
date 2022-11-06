@@ -1,0 +1,17 @@
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\bin\Debug\netcoreapp3.1\CashierApplication.exe
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\bin\Debug\netcoreapp3.1\CashierApplication.deps.json
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\bin\Debug\netcoreapp3.1\CashierApplication.runtimeconfig.json
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\bin\Debug\netcoreapp3.1\CashierApplication.runtimeconfig.dev.json
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\bin\Debug\netcoreapp3.1\CashierApplication.dll
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\bin\Debug\netcoreapp3.1\CashierApplication.pdb
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.Form1.resources
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.csproj.GenerateResource.cache
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.AssemblyInfoInputs.cache
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.AssemblyInfo.cs
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.dll
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.pdb
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.genruntimeconfig.cache
+C:\Users\thorn\source\repos\CashierApplication\CashierApplication\obj\Debug\netcoreapp3.1\CashierApplication.frmLoginAccount.resources
